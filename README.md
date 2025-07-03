@@ -11,42 +11,26 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - Provide actionable recommendations for HR and management.
 
 ## Key Insights
-#### 👥 Workforce Overview
-- *Total Employees*: 817
-- *Female Employees*: 377
-- *Male Employees*: 404
-- *Undisclosed Gender*: 36
-#### 📌 Gender & Diversity
-- *Gender Pay Gap: The overall pay gap is *$7.54K**, indicating salary inequality.
-- *Ratings by Gender*: Male employees slightly dominate the "Very Good" and "Excellent" ratings.
-- *Gender Distribution by Region*: Both Abuja and Kaduna regions show fairly balanced gender ratios across departments.
-  
-#### 💰 Compensation Insights
-- *Total Salary*: $60.4M
-- *Average Salary*: $74.0K
-- *Total Bonus Amount*: $2M
-- *Bonus Percentage*: 208%
-- *Compliance Rate*: 31.6% (Low – indicates the need for improved policy alignment)
-## 🌍 Regional Salary Distribution
-- *Top Paying Region: Lagos – contributes **41.9%* of total salary.
-- Abuja: 33.8%, Kaduna: 24.3%.
-- Salary gaps by location:
-  - Lagos: $9.5K
-  - Abuja: $6.5K
-  - Kaduna: $6.3K
-  ## 🧑‍💼 Salary Gap by Department
-Departments with highest salary gaps:
-- HR: $9.9K
-- Finance: $9.5K
-- Marketing: $8.8K
-## 📊 Salary Band & Employee Count
-- Most employees fall within the *middle salary bands*, showing a somewhat equitable pay structure.
-- Salary band distribution is similar across the three regions.
+- *Total workforce* 817 employees, with 377 females and 404 males.
+- *Gender pay gap exists*, with an average gap of **$7.77K**.
+- **Lagos** contributes the highest total remuneration **(41.9%)** compared to *Abuja and Kaduna*.
+- **Average salary** across the workforce is **$76.45K**, with a **total salary** spend of **$62M**.
+- Bonus amount totals **$2M**, representing 208% in percentage bonus.
+- Compliance rate on diversity and compensation standards is **31.6%**.
+- Highest salary gaps are in *HR* and *Finance department
 
-## ✅ Recommendations
+##  Recommendations
 1. *Address gender pay gaps* with structured compensation reviews.
 2. *Improve compliance rate* by aligning better with diversity policies.
 3. *Reduce gaps in high-gap departments* like HR and Finance.
 4. *Increase data completeness* by reducing "undisclosed" gender entries.
+
+##  Tools Used
+- **Power BI**: For dashboard design and data visualization
+- **Power Query**: For cleaning of Data
+- **Excel**: For initial data preparation
+- **DAX**: For custom calculations (measures)
+- **GitHub**: For version control and portfolio hosting
+
 
 
