@@ -32,6 +32,11 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **DAX**: For custom calculations (measures)
 - **GitHub**: For version control and portfolio hosting
 
+  ## File Included
+  [`insight.dm`](insight.dm)
+  
+
+
 
 
 
