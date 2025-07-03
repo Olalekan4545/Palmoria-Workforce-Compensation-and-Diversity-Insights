@@ -33,20 +33,16 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **GitHub**: For version control and portfolio hosting
 
   ## File Included
- [`insight.dm`](insight.dm)
-  [`Dax_measures.md`](Dax_measures.md)
-[`palmoria_Group_Bonusrule.xlsx`](palmoria_Group_Bonus_rule.xlsx)
-[`palmoria Group emp-data.csv`](palmoria_Group_emp.csv)
-[`Palmonia_image.png`](Palmonia_image.png)
+-  [`insight.dm`](insight.dm) Written Insights and Recommendation 
+- [`Dax_measures.md`](Dax_measures.md) Queries used for calculations
+- [`palmoria_Group_Bonusrule.xlsx`](palmoria_Group_Bonus_rule.xlsx)
+- [`palmoria Group emp-data.csv`](palmoria_Group_emp.csv) Data used For the analysis
+  
+- Images & Visualization (screnshot)
+  
+ [`Palmonia_image.png`](Palmonia_image.png) 
 [`Palmonia_image3.png`](Palmonia_image3.png)
- [`Palmonia_image4.png`](Palmonia_image4.png)
-   [`Palmonia_image5.png`](Palmonia_image5.png)
-   [`Palmonia_image6.png`](Palmonia_image6.png)
-  
-  
-
-
-
-
-
-
+[`Palmonia_image4.png`](Palmonia_image4.png)
+[`Palmonia_image5.png`](Palmonia_image5.png)
+[`Palmonia_image6.png`](Palmonia_image6.png)
+- Summary of project [`README.dm`](README.dm)
