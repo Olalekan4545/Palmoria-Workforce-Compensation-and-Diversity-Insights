@@ -45,5 +45,5 @@ gaps, bonus allocations, and performance ratings across departments and regions.
   [`compliance.png`](compliance.png) 
 [`Table_bonus_total_salary.png`](Table_bonus_total_salary.png)
 [`Employee_by_salary.png`](Employee_by_salary.png)
-[`Salary_Gap_by_department.png`](Salary_gap_by_department.png)
+[`Salary-Gap_by_department.png`](Salary_gap_by_department.png)
 [`Rating_by_gender.png`](Rating_by_gender.png)
