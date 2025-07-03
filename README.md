@@ -16,7 +16,7 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **Lagos** contributes the highest total remuneration **(41.9%)** compared to *Abuja and Kaduna*.
 - **Average salary** across the workforce is **$76.45K**, with a **total salary** spend of **$62M**.
 - Bonus amount totals **$2M**, representing 208% in percentage bonus.
-- Compliance rate on diversity and compensation standards is **31.6%**.
+- Compliance rate on diversity and compensation standards is **35%**.
 - Highest salary gaps are in *HR* and *Finance department
 
 ##  Recommendations
@@ -31,6 +31,8 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **Excel**: For initial data preparation
 - **DAX**: For custom calculations (measures)
 - **GitHub**: For version control and portfolio hosting
+
+
 
 
 
