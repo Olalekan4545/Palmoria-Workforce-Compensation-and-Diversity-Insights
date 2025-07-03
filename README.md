@@ -37,7 +37,7 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - [`Dax_measures.md`](Dax_measures.md) Queries used for calculations
 - [`palmoria_Group_Bonusrule.xlsx`](palmoria_Group_Bonus_rule.xlsx) Data used For the analysis
 - [`palmoria Group emp-data.csv`](palmoria_Group_emp.csv)
-  -[`README.dm`](README.dm)  Summary of project 
+- [`README.dm`](README.dm)  Summary of project 
   
 - Images & Visualization (screnshot)
   
