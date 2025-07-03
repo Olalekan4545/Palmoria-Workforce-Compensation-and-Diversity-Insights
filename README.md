@@ -34,8 +34,14 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 
   ## File Included
  [`insight.dm`](insight.dm)
- [`Palmonia_image.png`](Palmonia_image.png)
- 
+  [`Dax_measures.md`](Dax_measures.md)
+[`palmoria_Group_Bonusrule.xlsx`](palmoria_Group_Bonus_rule.xlsx)
+[`palmoria Group emp-data.csv`](palmoria_Group_emp.csv)
+[`Palmonia_image.png`](Palmonia_image.png)
+[`Palmonia_image3.png`](Palmonia_image3.png)
+ [`Palmonia_image4.png`](Palmonia_image4.png)
+   [`Palmonia_image5.png`](Palmonia_image5.png)
+   [`Palmonia_image6.png`](Palmonia_image6.png)
   
   
 
