@@ -13,7 +13,7 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 ## Key Insights
 - *Total workforce* 817 employees, with 377 females and 404 males.
 - *Gender pay gap exists*, with an average gap of **$7.77K**.
-- **Lagos** contributes the highest total remuneration **(41.9%)** compared to *Abuja and Kaduna*.
+- **Kaduna** contributes the highest total remuneration **(39.1%)** compared to *Abuja and Kaduna*.
 - **Average salary** across the workforce is **$76.45K**, with a **total salary** spend of **$62M**.
 - Bonus amount totals **$2M**, representing 208% in percentage bonus.
 - Compliance rate on diversity and compensation standards is **35%**.
