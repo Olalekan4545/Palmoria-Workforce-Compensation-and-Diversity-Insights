@@ -41,9 +41,9 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 
 - Images & Visualization (screnshot)
 
- [`palmoria_dashboard.png`](palmoria_dashboard.png)
+ [`palmoria_Dashboard.png`](palmoria_Dashboard.png)
   [`compliance.png`](compliance.png) 
-[`table_bonus_total_salary.png`](table_bonus_total_salary.png)
-[`employee_by_salary.png`](employee_by_salary.png)
-[`Salary_gap_by_department.png`](Salary_gap_by_department.png)
+[`Table_bonus_total_salary.png`](Table_bonus_total_salary.png)
+[`Employee_by_salary.png`](Employee_by_salary.png)
+[`Salary_Gap_by_department.png`](Salary_gap_by_department.png)
 [`Rating_by_gender.png`](Rating_by_gender.png)
