@@ -40,9 +40,9 @@ gaps, bonus allocations, and performance ratings across departments and regions.
   
 - Images & Visualization (screnshot)
   
- [`Palmonia_image.png`](Palmonia_image.png) 
-[`Palmonia_image3.png`](Palmonia_image3.png)
-[`Palmonia_image4.png`](Palmonia_image4.png)
-[`Palmonia_image5.png`](Palmonia_image5.png)
-[`Palmonia_image6.png`](Palmonia_image6.png)
+ [`compliance.png`](compliance.png) 
+[`table_bonus_total_salary.png`](table_bonus_total_salary.png)
+[`employee_by_salary.png`](employee_by_salary.png)
+[`Salary_gap_by_department.png`](Salary_gap_by_department.png)
+[`Rating_by_gender.png`](Rating_by_gender.png)
 - Summary of project [`README.dm`](README.dm)
