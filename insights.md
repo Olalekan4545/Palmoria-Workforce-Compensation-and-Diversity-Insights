@@ -14,21 +14,16 @@ The gender distribution is relatively balanced, but some records still have miss
 - Total Salary: $62M
 - Average Salary: $76.45K
 - Total Bonus Amount: $2M
-- Bonus Percentage: 208%
-- Compliance Rate: 31.6% (Low – indicates the need for improved policy alignment)
+- Bonus Percentage: 2754%
+- Compliance Rate: 35% (Low – indicates the need for improved policy alignment)
 #### Regional Salary Distribution
-- Top Paying Region: Lagos – contributes **41.9% of total salary.
-- Abuja: 33.8%, Kaduna: 24.3%.
+- Top Paying Region is Kaduna which has 39.05% total salary.
+- Abuja: 34.88%,Lagos 26.07%
 - Salary gaps by location:
- - Lagos: $9.5K
-  - Abuja: $6.5K
-  - Kaduna: $6.3K
-  #### Salary Gap by Department
-Departments with highest salary gaps:
-- HR: $9.9K
-- Finance: $9.5K
-- Marketing: $8.8K
-These departments may require targeted compensation reviews.
+ - Lagos: $11.9K
+  - Abuja: $6.8K
+  - Kaduna: $6.7K
+
 ####  Salary Band & Employee Count
 - Most employees fall within the middle salary bands, showing a somewhat equitable pay structure.
 - Salary band distribution is similar across the three regions.
