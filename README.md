@@ -33,7 +33,10 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **GitHub**: For version control and portfolio hosting
 
   ## File Included
-  [`insight.dm`](insight.dm)
+ [`insight.dm`](insight.dm)
+ [`Palmonia_image.png`](Palmonia_image.png)
+ 
+  
   
 
 
