@@ -33,18 +33,22 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **GitHub**: For version control and portfolio hosting
 
   ## File Included
-- [`README.md`](README.md)  Summary of project 
--  [`insights.md`](insights.md) Written Insights and Recommendation 
-- [`queries/DAX_measures.md`](queries/DAX_measures.md) Queries used for calculations
-- Data used For the analysis
-  [`Palmoria-Group-Bonus_Rules.xlsx`](Palmoria-Group-Bonus_Rules.xlsx) 
- [`Palmoria-Group-emp-data.csv`](Palmoria-Group-emp-data.csv)         
- [`Palmonia.Pbix`](palmonia.pbix)
+ - [`Palmonia.Pbix`](palmonia.pbix) Dashboard
+-  [`insights.md`](insights.md) Written Insights and Recommendation
+  
+-  [`Palmoria-Group-Bonus_Rules.xlsx`](Palmoria-Group-Bonus_Rules.xlsx) 
+  [`Palmoria-Group-emp-data.csv`](Palmoria-Group-emp-data.csv)
+Data used For the analysis
+- [`queries/DAX_measures.md`](queries/DAX_measures.md) Queries used for calculations 
+  
+- [`Palmoria_Dashboard.png`](Palmoria_Dashboard.png) [`compliance.png`](compliance.png) 
+  [`Table_bonus_total_salary.png`](Table_bonus_total_salary.png)
+  [`Employee_by_salary.png`](Employee_by_salary.png)
+  [`Salary_Gap_by_department.png`](Salary_Gap_by_department.png)
+  [`Rating_by_gender.png`](Rating_by_gender.png)
+Images & Visualization (screnshot)
+- [`README.md`](README.md)  Summary of project
 
-- Images & Visualization (screnshot)
-
- [`Palmoria_Dashboard.png`](Palmoria_Dashboard.png) [`compliance.png`](compliance.png) 
-[`Table_bonus_total_salary.png`](Table_bonus_total_salary.png)
-[`Employee_by_salary.png`](Employee_by_salary.png)
-[`Salary_Gap_by_department.png`](Salary_Gap_by_department.png)
-[`Rating_by_gender.png`](Rating_by_gender.png)
+## How to Use
+1. Download  [`Palmonia.Pbix`](palmonia.pbix)
+2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/).
