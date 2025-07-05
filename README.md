@@ -11,18 +11,18 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - Provide actionable recommendations for HR and management.
 
 ## Key Insights
-- *Total workforce* 817 employees, with 377 females and 404 males.
-- *Gender pay gap exists*, with an average gap of **$7.77K**.
-- **Kaduna** contributes the highest total remuneration **(39.1%)** compared to *Abuja and Kaduna*.
-- **Average salary** across the workforce is **$76.45K**, with a **total salary** spend of **$62M**.
-- Bonus amount totals **$2M**, representing 208% in percentage bonus.
-- Compliance rate on diversity and compensation standards is **35%**.
-- Highest salary gaps are in *HR* and *Finance department
+- *Total workforce* 874 employees, with 441 females,465 males and 40 unknown Gender
+- *Gender pay gap exists*, with an average gap of **$6.48K**.
+- **Kaduna** has the highest total remuneration **(38.23%)** compared to *Abuja and lagos*.
+- **Average salary** across the workforce is **$76.03K**, with a **total salary** spend of **$72M**.
+- Bonus amount totals **$2M**, representing 2975% in percentage bonus.
+- Compliance rate on diversity and compensation standards is **38.22%**.
+- Highest salary gaps are in *product management* and *Accounting department*
 
 ##  Recommendations
 1. *Address gender pay gaps* with structured compensation reviews.
 2. *Improve compliance rate* by aligning better with diversity policies.
-3. *Reduce gaps in high-gap departments* like HR and Finance.
+3. *Reduce gaps in high-gap departments* like product management and Accounting.
 4. *Increase data completeness* by reducing "undisclosed" gender entries.
 
 ##  Tools Used
