@@ -1,28 +1,28 @@
  ####  Workforce Overview
-- Total Employees: 817
+- Total Employees: 874
 - Female Employees: 377
-- Male Employees: 404
-- Undisclosed Gender: 36
-- Salary Pay Gap:7.77k
+- Male Employees: 441
+- Undisclosed Gender: 40
+- Salary Pay Gap:6.48k
 The gender distribution is relatively balanced, but some records still have missing gender information.
 ####  Gender & Diversity
-- Gender Pay Gap: The overall pay gap is *$7.54K*, indicating salary inequality.
-- Ratings by Gender: Male employees slightly dominate the "Very Good" and "Excellent" ratings.
-- Gender Distribution by Region: Both Abuja and Kaduna regions show fairly balanced gender ratios across departments.
+- Gender Pay Gap: The overall pay gap is *$6.48K*, indicating salary inequality.
+- Ratings by Gender: Male employees slightly dominate the "Average" while female gender dominate "Good" ratings.
+- Gender Distribution by Region: Both Abuja and Kaduna regions show fairly balanced gender ratios across department.
   
 ####  Compensation Insights
-- Total Salary: $62M
-- Average Salary: $76.45K
+- Total Salary: $72M
+- Average Salary: $76.03K
 - Total Bonus Amount: $2M
-- Bonus Percentage: 2754%
-- Compliance Rate: 35% (Low – indicates the need for improved policy alignment)
+- Bonus Percentage: 2975%
+- Compliance Rate: 38.22% (Low – indicates the need for improved policy alignment)
 #### Regional Salary Distribution
-- Top Paying Region is Kaduna which has 39.05% total salary.
-- Abuja: 34.88%,Lagos 26.07%
+- Top Paying Region is Kaduna which has 38.22% total salary.
+- Abuja: 34.59%,Lagos 27.19%
 - Salary gaps by location:
- - Lagos: $11.9K
-  - Abuja: $6.8K
-  - Kaduna: $6.7K
+ - Lagos: $13.0K
+  - Abuja: $7.2K
+  - Kaduna: $3.6K
 
 ####  Salary Band & Employee Count
 - Most employees fall within the middle salary bands, showing a somewhat equitable pay structure.
@@ -30,7 +30,7 @@ The gender distribution is relatively balanced, but some records still have miss
 
 ## Recommendations
  ####  Address Gender Salary Gaps
-- Investigate compensation structures in departments with high pay gaps (e.g. IT, Sales).
+- Investigate compensation structures in departments with high pay gaps (e.g. Product management, Accounting).
 - Conduct regular salary audits to ensure fairness.
 #### Improve Rating Equity
 - Provide bias training for performance evaluators.
@@ -41,7 +41,3 @@ The gender distribution is relatively balanced, but some records still have miss
 #### Encourage Diversity in High-Paying Roles
 - Promote female employees to leadership and technical positions.
 - Set diversity goals at department level.
-
-
-
-
