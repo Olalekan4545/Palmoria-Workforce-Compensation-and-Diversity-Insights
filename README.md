@@ -88,7 +88,7 @@ Dlinks_Eletronic_sales_performance_Dashboard.png / [`Palmoria_Dashboard.png`](Pa
 
 
 ### 👨‍💻 About Me
-I am a Data Analyst specializing in Excel,Powerbi and SQL. I love turning messy data into clean and actionable stories.
+I am a Data Analyst specializing in Excel, Powerbi and SQL. I love turning messy data into clean and actionable stories.
 
 🔗 [Linkdin_Profile](https://linkedin.com/in/afolakemi-olalekan-145174253)
 
