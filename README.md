@@ -32,23 +32,69 @@ gaps, bonus allocations, and performance ratings across departments and regions.
 - **DAX**: For custom calculations (measures)
 - **GitHub**: For version control and portfolio hosting
 
-  ## File Included
- - [`Palmonia.Pbix`](palmonia.pbix) Dashboard
--  [`insights.md`](insights.md) Written Insights and Recommendation
-  
--  [`Palmoria-Group-Bonus_Rules.xlsx`](Palmoria-Group-Bonus_Rules.xlsx) 
-  [`Palmoria-Group-emp-data.csv`](Palmoria-Group-emp-data.csv)
-Data used For the analysis
-- [`queries/DAX_measures.md`](queries/DAX_measures.md) Queries used for calculations 
-  
-- [`Palmoria_Dashboard.png`](Palmoria_Dashboard.png) [`compliance.png`](compliance.png) 
-  [`Table_bonus_total_salary.png`](Table_bonus_total_salary.png)
-  [`Employee_by_salary.png`](Employee_by_salary.png)
-  [`Salary_Gap_by_department.png`](Salary_Gap_by_department.png)
-  [`Rating_by_gender.png`](Rating_by_gender.png)
-Images & Visualization (screnshot)
-- [`README.md`](README.md)  Summary of project
+
+## File Included
+Dlinks_Eletronic_sales_performance_Dashboard.png / [`Palmoria_Dashboard.png`](Palmoria_Dashboard.png) 
+
+
+├──  Palmoria_Dataset.xlsx
+
+│     └── Data used For the analysis/ [`Palmoria-Group-Bonus_Rules.xlsx`](Palmoria-Group-Bonus_Rules.xlsx) /  [`Palmoria-Group-emp-data.csv`](Palmoria-Group-empdata.csv)
+ 
+│ 
+
+├── Palmonia.Pbix
+
+
+│   └── dashboard/ [`Palmonia.Pbix`](palmonia.pbix)
+
+
+│
+
+
+├── images.png
+
+
+│   └── Images/ [`Employee_by_salary.png`](Employee_by_salary.png) / [`Gender_by_Dept.png`](Gender_by_Dept.png) / [`Rating_by_Gender.png`](Rating_by_Gender.png) / [`Remuration_by_Region.png`](Remuration_by_Region.png) / [`Salary_Band_by_Region.png`](Salary_Band_by_Region.png) / [`Salary_Gap_by_Location.png`](Salary_Gap_by_Location.png) /  [`Salary_Table.png`](Salary_Table.png) / [`Compliance_Rate.png`](Compliance_Rate.png)  
+
+
+│
+
+
+├── insights.md
+
+
+│   └── Written Insights and Recommendation/  [`insights.md`](insights.md)
+
+
+|
+
+
+├── queries.md
+
+
+│   └── Queries used for calculations/ [`queries/DAX_measures.md`](queries/DAX_measures.md)
+
+
+
+└── README.md / [`README.md`](README.md) 
+
 
 ## How to Use
 1. Download  [`Palmonia.Pbix`](palmonia.pbix)
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/).
+
+
+
+
+### 👨‍💻 About Me
+I am a Data Analyst specializing in Excel,Powerbi and SQL. I love turning messy data into clean and actionable stories.
+
+🔗 [Linkdin_Profile](https://linkedin.com/in/afolakemi-olalekan-145174253)
+
+
+
+
+📧  [Click here to send me an email](mailto:Afolakemiayomiposi@gmail.com)
+
+
