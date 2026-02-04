@@ -1,7 +1,9 @@
 # Palmoria-Workforce-Compensation-and-Diversity-Insights
+
 ## Description
-This project analyzes the workforce compensation and diversity insights of Palmoria using data visualized in Power BI. It provides insights into gender distribution, salary 
-gaps, bonus allocations, and performance ratings across departments and regions.
+This project provides a granular analysis into the workforce structure of Palmoria. As a Data Analyst, my goal was to evaluate how compensation is distributed across the organization and to identify potential gaps in gender diversity and pay equity.
+
+By analyzing salary, bonuses, and performance ratings, this dashboard serves as a strategic tool for leadership to ensure fair treatment and optimized budget allocation across all regions and departments.
 
 ## Objectives
 - Analyze gender distribution by region and department.
