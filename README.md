@@ -1,4 +1,5 @@
 # Palmoria-Workforce-Compensation-and-Diversity-Insights
+![image](Palmoria_Dashboard.png) 
 
 ## Description
 This project provides a granular analysis into the workforce structure of Palmoria. As a Data Analyst, my goal was to evaluate how compensation is distributed across the organization and to identify potential gaps in gender diversity and pay equity.
